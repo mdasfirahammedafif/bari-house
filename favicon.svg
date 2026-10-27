@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#264133" />
+      <stop offset="100%" stop-color="#14211a" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5e6c8" />
+      <stop offset="50%" stop-color="#c6a76a" />
+      <stop offset="100%" stop-color="#a68444" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bg)" stroke="url(#gold)" stroke-width="3" />
+  <circle cx="32" cy="32" r="24" fill="none" stroke="url(#gold)" stroke-width="1.2" stroke-opacity="0.5" />
+  <path d="M 22 21 L 32 13 L 42 21" fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="32" y="45" font-family="'Playfair Display', Georgia, 'Segoe UI', serif" font-size="29" font-weight="700" fill="#fbfaf6" text-anchor="middle">ব</text>
+</svg>
